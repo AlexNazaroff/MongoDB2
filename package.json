@@ -1,0 +1,16 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "react, node, mongoDB"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "mongoDB"
+  ],
+  "author": "Alex Nazaroff <ale.krotov@gmail.com>",
+  "license": "ISC"
+}
