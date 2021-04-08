@@ -1,5 +1,5 @@
 {
   "port": 5000,
-  "mongoUri": ''
+  "mongoUri": "mongodb+srv://User:qibgKgpKWZQmZmKg@cluster0.aywkc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
 }
