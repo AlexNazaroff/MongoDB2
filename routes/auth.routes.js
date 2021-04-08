@@ -4,6 +4,7 @@ const {Router} = require('express')
 const config = require('config')
 const jwt = require('jsonwebtoken')
 */
+
 const {check, validationResult} = require('express-validator')
 
 const bcrypt = require('bcryptjs')
@@ -94,6 +95,7 @@ router.post(
             res.status(500).json({ message: 'Что-то пошло не так, попробуйте снова' })
         }
     })
+
 
 
 module.exports = router
